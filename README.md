@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 <br /> A beginner malware creator, you can use my malware but i am not responsible for any damages!
-
 <br /> Follow me on other platforms:
 <br /> Discord: Ton618#6656
 <br />
