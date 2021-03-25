@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-A beginner malware creator, you can use my malware but i am not responsible for any damages
+<br /> A beginner malware creator, you can use my malware but i am not responsible for any damages
 
-Follow me on other platforms:
-Discord: Ton618#6656
-Instagram: niko4096_
+<br /> Follow me on other platforms:
+<br /> Discord: Ton618#6656
+<br / > [Instagram: niko4096_](https://instagram.com/niko4096_?igshid=bk00o0yvohzd)
