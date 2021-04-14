@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br /> 📌 East Java, Indonesia
-<br /> A beginner malware creator, you can use my malware but im not responsible for any damages!
+<br /> C++ Learner, Malware creator.
 
 <br /> Follow me on other platforms:
 <br /> Discord: Ton618#6656
