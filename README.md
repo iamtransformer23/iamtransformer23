@@ -3,7 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptionShutdownSystem)](https://github.com/anuraghazra/github-readme-stats)
 <br /> 📌 East Java, Indonesia
 <br /> C/C++ Learner, Malware creator.
-
 <br /> Follow me on other platforms:
 <br /> Discord: Perseus#6656
 <br />
