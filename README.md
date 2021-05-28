@@ -3,7 +3,7 @@
 <br /> C++ Learner, Malware creator.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OptionShutdownSystem)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptionShutdownSystem)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /> Follow me on other platforms:
 <br /> Discord: Perseus#6656
