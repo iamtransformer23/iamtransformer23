@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br /> 📌 East Java, Indonesia.
-<br /> A Programming, Technology, Space Enthusiast.
+<br /> A Programming, Technology, Geology, Climatology and Space Enthusiast.
 <br /> Learn more deep about C/C++ languages.
 
 <br /> Follow me on other platforms:
