@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br /> 📌 East Java, Indonesia.
 <br /> A Programming, Technology, Geology, Climatology and Space Enthusiast.
-<br /> Learn more deep about C/C++ languages.
+<br /> Learning more deep about C/C++ languages.
 
 <br /> Follow me on other platforms:
 <br /> Discord: Perseus#6656
