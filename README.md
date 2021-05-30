@@ -2,7 +2,6 @@
 <br /> 📌 East Java, Indonesia.
 <br /> A Programming, Technology, Space Enthusiast.
 <br /> Learn more deep about C/C++ languages
-
 <br /> Follow me on other platforms:
 <br /> Discord: Perseus#6656
 <br />
