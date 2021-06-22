@@ -5,7 +5,7 @@
 
 <br /> Follow me on other platforms:
 <br /> Discord: Nathantor#7777
-<br /> [No_Name Programming Community(https://discord.gg/pkMx2ZhkEv)
+<br /> [No_Name Programming Community](https://discord.gg/pkMx2ZhkEv)
 <br /> [CYBER DIMENSION](https://discord.gg/74Qx7k6FMG)
 <br /> Instagram: [niko4096_](https://instagram.com/niko4096_?igshid=bk00o0yvohzd)
 
