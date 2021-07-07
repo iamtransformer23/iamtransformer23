@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br /> 📌 East Java, Indonesia.
 <br /> 🔭 A Programming, Technology, Geology, Climatology and Space Enthusiast.
-<br /> 📖 I am currently learning C.
+<br /> 📖 I am currently learning C and C++.
 <br /> 💬 I am often speak using Javanese, Indonesian and English.
 <br /> 📹 Follow me on other platforms:
 <br /> Discord: Nathantor#7777
