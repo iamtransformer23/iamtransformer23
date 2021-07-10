@@ -2,8 +2,22 @@
 <br /> 👨 He/Him.
 <br /> 📌 East Java, Indonesia.
 <br /> 🔭 A Programming, Technology, Geology, Climatology and Space Enthusiast.
-<br /> 📖 I am currently learning C and C++.
-<br /> 💬 I am often speak using Javanese, Indonesian and English.
+<br /> 📖 I'm currently learning C and C++.
+<br /> 💬 I'm often speak using Javanese, Indonesian and English.
+
+### Stuffs i use
+<br /> **Device**
+
+![Laptop](https://img.shields.io/badge/Windows-ASUS_X201E-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br /> **Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br /> **IDEs**
+
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![NPP](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ### Social media
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pkMx2ZhkEv)
