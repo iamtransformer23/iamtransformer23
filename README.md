@@ -2,8 +2,8 @@
 <br /> 👨 He/Him.
 <br /> 📌 East Java, Indonesia.
 <br /> 🔭 A Programming, Technology, Geology, Climatology and Space Enthusiast.
-<br /> 📖 I'm currently a student and learning C and C++.
-<br /> 💬 I'm often speak using Javanese, Indonesian and English.
+<br /> 📖 I'm currently a student in a school.
+<br /> 🌱 I'm now learning C and C++
 
 ### Stuffs i use
 <br /> **Device**
