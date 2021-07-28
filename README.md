@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br /> 👨 He/Him.
-<br /> 📌 East Java, Indonesia.
+<br /> 📌 Indonesia.
 <br /> 🔭 A Programming, Technology, Geology, Climatology and Space Enthusiast.
 <br /> 📖 I'm currently a student, and learning C and C++
 
