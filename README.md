@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Nathantor&color=blue)
 <br /> 👨 He/Him.
 <br /> 📌 Indonesia.
 <br /> 🔭 A Programming, Technology, Geology, Climatology and Space Enthusiast.
