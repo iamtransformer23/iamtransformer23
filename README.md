@@ -3,7 +3,7 @@
 <br /> 👨 He/Him.
 <br /> 📌 Indonesia.
 <br /> 🔭 Interested in Programming, Technology, Geology, Climatology and Astronomy.
-<br /> 📖 Now learning C/C++.
+<br /> 📖 Currently learning C/C++.
 
 ### Github stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x40E0D0&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
