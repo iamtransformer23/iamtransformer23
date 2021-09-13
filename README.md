@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Views](https://komarev.com/ghpvc/?username=INT16Turbo&color=blue)
-<br /> 👨 He/Him.
+<br /> 👨 XY.
 <br /> 📌 void*
 <br /> 🔭 Astro, Meteo, Geo.
 <br /> 📖 C WinAPI, Assembly (soon).
